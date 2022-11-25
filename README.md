@@ -99,8 +99,3 @@ Ya que contiene la función
 if __name__ == '__main__':
     bbdd_to_excel()
 ```
-### Integrantes:
-    -Agustin Piccoli
-    -Lina Mikaela Gutierrez Arribas
-    -Lourdes Reynaldo
-    -Horacio Eduardo Quiroga
